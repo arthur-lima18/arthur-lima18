@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href = "mailto:arthur.lima@aluno.ufop.edu.br"> 
+<a href = "arthur.lima@aluno.ufop.edu.br"> 
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> 
 </a>
 <a href="https://www.linkedin.com/in/arthur-silva-lima/" target="_blank">
