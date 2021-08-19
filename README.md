@@ -42,3 +42,6 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-lima18&show_icons=true&locale=en&layout=compact&theme=radical" alt="arthur-lima18" /></p>
