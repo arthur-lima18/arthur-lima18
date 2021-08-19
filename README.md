@@ -43,5 +43,7 @@
 </a>
 </p>
 
+<br></br>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-lima18&show_icons=true&locale=en&layout=compact&theme=radical" alt="arthur-lima18" /></p>
