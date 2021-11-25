@@ -47,5 +47,7 @@
 
 <br></br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-lima18&show_icons=true&locale=en&layout=compact&theme=radical" alt="arthur-lima18" /></p>
+<!--<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-lima18&show_icons=true&locale=en&layout=compact&theme=radical" alt="arthur-lima18" /></p>-->
+  
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-lima18&langs_count=8&hide=ruby,shell&layout=compact&hide_border=true&bg_color=00000000&text_color=currentColor)](https://github.com/anuraghazra/github-readme-stats)
