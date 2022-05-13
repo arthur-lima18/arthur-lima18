@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Meu nome é Arthur 👋</h1>
+<h1 align="center">Olá! Eu sou o Arthur 👋</h1>
 
 <h3 align="left">Linguagens:</h3>
 <p align="left">
