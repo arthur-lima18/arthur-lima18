@@ -3,9 +3,12 @@
 <h3 align="left">Linguagens:</h3>
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
@@ -16,6 +19,7 @@
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Vue.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 <h3 align="left">Bancos de Dados:</h3>
@@ -25,14 +29,11 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h3 align="left">Aprendendo:</h3>
+<!-- <h3 align="left">Aprendendo:</h3>
 <p align="left">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <!-- <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> -->
-  <!-- <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> -->
-  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</p> -->
 
 <h3 align="left">Ferramentas de design:</h3>
 <p align="left">
@@ -53,4 +54,4 @@
 <!--<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-lima18&show_icons=true&locale=en&layout=compact&theme=radical" alt="arthur-lima18" /></p>-->
   
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-lima18&langs_count=8&custom_title=Linguagens%20mais%20utilizadas&hide=starlark,ruby&layout=default&hide_border=true&bg_color=00000000&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-lima18&langs_count=8&custom_title=Linguagens%20mais%20utilizadas&hide=starlark,ruby&layout=default&hide_border=true&bg_color=00000000&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats) -->
